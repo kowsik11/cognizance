@@ -1,0 +1,29 @@
+Problem-1
+Write pseudocode and flowchart for a program that outputs ‘True’ if a given 
+number is divisible by 3 and ‘False’ otherwise, without using the ‘%’ operator 
+explicitly (like N % 3 == 0). NOTE: You can use ‘%’ operator to separate each 
+digit of the given number(like N % 10).
+Solution :-
+Finding whether a number is divisible by 3 or not by not using "%" operator .
+Input n
+assign s=0 
+assign a = n 
+while r>0
+	b= a%10
+	s=s+b
+	a=a/10
+if ( s==3 or s==6 or s==9 )
+	print True
+else if ( s<=9 )
+	print False
+else
+assign p=s
+assign sum=0 
+while
+	assign q=p%10 
+	assign sum = sum +q 
+	assign p=p/10
+if ( sum==3 or sum==6 or sum==9 ) 
+	print True
+else 
+	print False
