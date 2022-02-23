@@ -8,4 +8,3 @@ for x in details:
     for y in x:
        print(y, end=" "*9)
     print()
-input()
