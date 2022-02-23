@@ -6,4 +6,3 @@ details = [
 print("{:<10} {:<10} {:<10}" .format('roll no', 'name', 'marks')  )
 for x in range(0,3):
     print(details[1][x], end=" "*9)
-input()
