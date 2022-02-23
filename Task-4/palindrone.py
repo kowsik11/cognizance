@@ -4,4 +4,3 @@ if ( x == rev ):
     print('True')
 else:
     print('False')
-input()
