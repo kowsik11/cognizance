@@ -8,7 +8,7 @@
 * It deals with universal music group.
 * It provides unlimited skips.
 * Ad-free music listening. Enjoy uninterrupted music.
-[To view Spotify Media](http://www.spotify.com/)
+[About Spotify Media](http://www.spotify.com/)
 > Future improvements
 * To bring more contents so that it will attract more listeners. 
 * To increase more no.of ads.
