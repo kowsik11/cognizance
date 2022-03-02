@@ -4,12 +4,12 @@
 > Theme
 * The main theme is to remove our stress and become calm in early morning and night.
 ![spotify logo](https://static-01.daraz.pk/p/14b872a1c3695a266b59eaa741ffec1c.png)
-> motivation
+> Motivation
 * It deals with universal music group.
 * It provides unlimited skips.
 * Ad-free music listening. Enjoy uninterrupted music.
 [To view Spotify Media](http://www.spotify.com/)
-> future improvements
+> Future improvements
 * To bring more contents so that it will attract more listeners. 
 * To increase more no.of ads.
 * Moreover, it will also be a collaborate with some bank accouts. so that it becomes easy to be a premium subscibers.
