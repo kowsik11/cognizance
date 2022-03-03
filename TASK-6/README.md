@@ -23,7 +23,7 @@
 > Premium Offer 
 * ~~12.99$~~ just for **9.99$** 😮
 > For more details about app
-[www.spotify.com](http://www.spotify.com/)
+* [www.spotify.com](http://www.spotify.com/)
 > ### For more information 
 | Email  Id           |
 | ------------------- |
