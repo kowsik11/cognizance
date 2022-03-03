@@ -8,7 +8,7 @@
 * It deals with universal music group.
 * It provides unlimited skips.
 * Ad-free music listening. Enjoy uninterrupted music.
-[About Spotify Media](http://www.spotify.com/)
+[About Spotify App](http://www.spotify.com/)
 > Future improvements
 * To bring more contents so that it will attract more listeners. 
 * To increase more no.of ads.
@@ -20,7 +20,7 @@
 * Instantly listen any songs in app.
 * Streaming and download quality.
 > Premium Offer 
-* ~~12.99$~~ just for **## 9.99$**
+* ~~12.99$~~ just for **9.99$**
 > ### For more information 
 | Email  Id           |
 | ------------------- |
