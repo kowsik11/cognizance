@@ -9,6 +9,8 @@
 * It provides unlimited skips.
 * Ad-free music listening. Enjoy uninterrupted music.
 [About Spotify App](http://www.spotify.com/)
+> *Company partnerships :*
+* In January 2015, Sony announced PlayStation Music, a new music service with Spotify as its exclusive partner. PlayStation Music incorporates the Spotify service into Sony's PlayStation 3 and PlayStation 4 gaming consoles, and Sony Xperia mobile devices. The service launched on 30 March 2015.[90] In March 2017, Spotify announced a partnership with the South by Southwest (SXSW) conference for 2017, presenting specific content in special playlists through an SXSW hub in Spotify's apps. The integration also enabled Spotify within the SXSW GO app to help users discover and explore artists performing at the conference. Two more partnerships were announced in March; one with WNYC Studios, and one with Waze.
 > Future improvements
 * To bring more contents so that it will attract more listeners. 
 * To increase more no.of ads.
